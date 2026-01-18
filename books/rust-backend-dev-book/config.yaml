@@ -1,0 +1,9 @@
+title: "ReactエンジニアのためのRust入門：型安全を極めるバックエンド開発"
+summary: "本の紹介文"
+topics: ["markdown", "zenn", "react"] # トピック（5つまで）
+published: false # falseだと下書き
+price: 1000 # 有料の場合200〜5000
+chapters:
+  - example1 # チャプター1
+  - example2 # チャプター2
+  - example3 # チャプター3
